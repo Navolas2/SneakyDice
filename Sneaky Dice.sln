@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4548ACB2-BFD1-B439-DB56-15B2D9ED0735}") = "Sneaky Dice", "Assembly-CSharp.csproj", "{FD7B4A60-DB93-4CA9-37F9-39A1CE376DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7B4A60-DB93-4CA9-37F9-39A1CE376DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7B4A60-DB93-4CA9-37F9-39A1CE376DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7B4A60-DB93-4CA9-37F9-39A1CE376DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7B4A60-DB93-4CA9-37F9-39A1CE376DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
